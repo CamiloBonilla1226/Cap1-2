@@ -14,4 +14,11 @@ Ejemplo: Las llamadas de voz sobre IP (VoIP), estas deben tener prioridad sobre 
 Seguridad: Se refiere a la implementación de medidas y protocolos para proteger la integridad de la información.
 Ejemplo: Firewalls que se encarga de filtrar el tráfico no deseado
 
-3. 
+3. ¿Qué son las redes orientadas y no orientadas a la conexión?
+Redes orientadas a la conexión: Antes de intercambiar datos estas redes se encargan de establecer una conexión entre ellos, cuando se verifica que la conexión es estable los datos se transmiten.
+Redes no orientadas a la conexión: Es cuando los dispositivos pueden intercambiar información sin necesidad de haber establecido alguna conexión
+
+4. Que es la calidad del servicio y responda: ¿Por qué importa la calidad del servicio en una red de datos?
+Es la capacidad de priorizar y gestionar el tráfico de datos con el fin de asegurar un rendimiento óptimo. Es importante puesto que garantiza un rendimiento eficiente en la red, mejorando las experiencias del usuario y asegura el funcionamiento de las aplicaciones en situaciones de congestión 
+
+
