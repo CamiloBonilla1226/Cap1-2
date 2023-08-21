@@ -1,0 +1,17 @@
+Cap 1.
+1. Responda brevemente, ¿Qué son los datos? ¿Qué es una red de datos? ¿Qué es una red convergente?
+Los datos hacen referencia a una representación simbólica, ya sea imágenes, números, texto o algún otro formato que pueda ser procesado con el fin de generar algún conocimiento. Una red de datos es un grupo de dispositivos que están conectados entre sí, con el fin de poder comunicarse y compartir información. Una red convergente se encargada de transportar varios tipos de datos, como voz y video a través de una única infraestructura de red, aumentando su eficiencia y disminuyendo sus costos 
+
+2. Describir las características de las arquitecturas de red: tolerante a fallas,
+escalabilidad, calidad del servicio y seguridad. Mostrar sus respectivos
+ejemplos.
+Tolerante a fallas: Es la capacidad de poder mantener en funcionamiento la red incluso cuándo se producen problemas, permitiendo que la red continúe operando.
+Ejemplo: Uno de los casos más comunes es la redundancia, si falla algún enlace o componente, se tendrán otros elementos de respaldo que sí están disponibles. 
+Escalabilidad: Es la capacidad de una red para crecer y adaptarse a la medida necesaria sin perder su eficiencia 
+Ejemplo: Facebook, agrega nuevos servidores por su crecimiento, brindando un servicio óptimo a sus usuarios 
+Calidad del servicio: Capacidad de una red para poder tener prioridad en sus servicios brindando un rendimiento óptimo 
+Ejemplo: Las llamadas de voz sobre IP (VoIP), estas deben tener prioridad sobre otros tipos de tráfico 
+Seguridad: Se refiere a la implementación de medidas y protocolos para proteger la integridad de la información.
+Ejemplo: Firewalls que se encarga de filtrar el tráfico no deseado
+
+3. 
