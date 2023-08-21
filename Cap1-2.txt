@@ -46,3 +46,32 @@ El internetwork hace referencia a la interconexión de redes individuales, por o
 
 4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
 La Tarjeta de Interfaz de Red (NIC) es el componente físico que posibilita la conexión física a una red o host, mientras que el puerto físico actúa como conector para establecer la conexión. La interfaz es el punto de comunicación entre dispositivos y redes distintas, facilitada por routers que conectan estas redes entre sí.
+
+5. ¿Por qué se dice que un protocolo es independiente de la tecnología?
+Un protocolo se encarga de describir una serie de normas que deben ser cumplidas, haciendo que este sea utilizado por diferentes dispositivos, cada uno de ellos puede realizar este proceso pero de diferente manera estando bajo las mismas condiciones, llevando un proceso distinto pero con el mismo resultado, por ende los protocolos deben ser independientes a ello.
+
+
+6. Consultar y explicar brevemente qué es una Unidad de Datos del Protocolo (PDU). 
+Una (PDU) es la unidad fundamental en el modelo de interconexión de sistemas abiertos. Contiene información distintiva que identifica la capa y se combina con los datos del usuario. PDUs son empleadas para el intercambio de información entre diferentes unidades dentro de una misma capa del modelo.
+
+7. Explicar la función de los protocolos en las comunicaciones de redes y para qué es el proceso de encapsulamiento de los datos (ilustrar el nombre que adopta cada PDU en cada capa del modelo TCP/IP mediante un dibujo).
+Los protocolos en las comunicaciones de redes son reglas que aseguran que los dispositivos se entiendan al intercambiar datos, garantizando una comunicación eficiente y confiable. El encapsulamiento de datos se utiliza para empacar y organizar información en capas sucesivas de encabezados, creando un estructura que permite que los datos viajen de forma eficiente
+
+8. Describir la diferencia entre los modelos de protocolo y modelos de
+referencia.
+Los modelos de protocolo son los encargados de especificar las reglas de una manera exacta y puntual de cómo los dispositivos se deben comunicar en una red, por otro lado los modelos de referencia ofrecen un marco general para comprender cómo funcionan las redes en capas. 
+
+9. Describir la función de cada capa en los dos modelos de red: TCP/IP y OSI.
+Modelo TCP/IP 
+Aplicación: Es donde interactúan con los usuarios haciendo uso de diferentes protocolos como HTTP y así poder comunicarse y compartir datos a través de la red 
+Transporte: Maneja la conexión y el flujo de datos entre dispositivos.
+Internet: Se encarga de enrutar y direccionar los paquetes de datos que se envían a través de la red
+Acceso a la red: Se encarga del control de los dispositivos del hardware y los diferentes medios que conforman la red 
+	Modelo OSI
+Aplicación: Esta capa se encarga de permitir la interacción con la red
+Presentación: Realiza conversión y cifrado de los datos 
+Sesión: Establece, administra y finaliza sesiones
+Transporte: Proporciona el control del flujo 
+Capa de red: Enruta y direcciona los paquetes de datos
+Enlace de datos: Administra el flujo de datos 
+Física: Se encarga de la transmisión física de bits 
