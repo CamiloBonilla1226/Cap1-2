@@ -22,3 +22,27 @@ Redes no orientadas a la conexión: Es cuando los dispositivos pueden intercambi
 Es la capacidad de priorizar y gestionar el tráfico de datos con el fin de asegurar un rendimiento óptimo. Es importante puesto que garantiza un rendimiento eficiente en la red, mejorando las experiencias del usuario y asegura el funcionamiento de las aplicaciones en situaciones de congestión 
 
 
+Cap 2
+1. Describir la estructura de red, incluidos los dispositivos, medios y servicios necesarios para lograr comunicaciones exitosas
+Medios de comunicación: 
+Redes inalámbricas: Utilizan señales, ondas de radio para transmitir datos 
+Cableado: Usan cables para poder conectar los dispositivos
+Medios satelitales: Transmiten datos a largas distancias 
+Dispositivos: 
+Host: Envían, reciben o procesan datos
+Enrutadores: Se encargan de dirigir los datos 
+Switches: Conectan dispositivos locales 
+Firewall: Se encarga de la seguridad de la red 
+Servicios:
+Direcciones IP y DNS: Permiten localizar dispositivos y el DNS se encarga de traducir nombres de dominio a direcciones IP
+Protocolos de comunicación: Se encarga de poner reglas para la comunicación 
+
+
+2. Comparar y contrastar los siguientes términos: RED, LAN, WAN, INTERNETWORK E INTERNET.
+Cada uno de los términos se diferencia en su  alcance, tamaño de red, tecnologías utilizadas y propósito. Las LAN están limitadas a áreas pequeñas, como oficinas o edificios, zonas locales, mientras que las WAN abarcan áreas más grandes.Internetwork se centra en la interconexión de múltiples redes para permitir la comunicación entre ellas. Por otro lado, Internet es la red global más grande, que ofrece una plataforma para la comunicación global, el acceso a información y servicios en línea siguiendo un conjunto de normas y protocolos.
+
+3. ¿Cuál es la diferencia entre INTERNETWORK E INTERNET?
+El internetwork hace referencia a la interconexión de redes individuales, por otro lado el cuando hablamos de internet hacemos referencia a la red global que se encarga de conectar varios dispositivos brindando diferentes servicios y recursos en línea 
+
+4. Describir la diferencia entre Tarjeta de interfaz de red (NIC), puerto físico e interfaz de red.
+La Tarjeta de Interfaz de Red (NIC) es el componente físico que posibilita la conexión física a una red o host, mientras que el puerto físico actúa como conector para establecer la conexión. La interfaz es el punto de comunicación entre dispositivos y redes distintas, facilitada por routers que conectan estas redes entre sí.
